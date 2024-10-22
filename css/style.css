@@ -1,3 +1,24 @@
 h4{
-	border:100 px;
+	border: 5px dotted red;
+}
+
+.colors{
+	color:green;
+}
+
+#clr{
+	color:blue;
+}
+
+.bg2{
+	color:chocolate;
+}
+
+.col{
+	color:darkkhaki;
+}
+
+.stl{
+	border-style:inset;
+	color:darkslateblue;
 }
