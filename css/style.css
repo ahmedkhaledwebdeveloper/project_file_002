@@ -22,3 +22,20 @@ h4{
 	border-style:inset;
 	color:darkslateblue;
 }
+
+table, th, td {
+  border:2px solid darkblue;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  background-color: lightgrey;
+  width: 200px;
+  border: 30px solid blueviolet;
+  padding: 30px;
+  margin: 30px;
+}
